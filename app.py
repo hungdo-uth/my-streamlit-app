@@ -72,4 +72,4 @@ st.pyplot(fig)
 
 # 9. Hiển thị thông tin người tạo ở cuối trang
 st.markdown("---")
-st.caption("Người tạo ứng dụng: [Điền Họ Tên Của Bạn] - MSSV: [Điền MSSV]")
+st.caption("Người tạo ứng dụng: [Đỗ Thiên Hưng] - MSSV: [045208005880]")
